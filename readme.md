@@ -67,12 +67,12 @@
 
 # 06 React Router
 
-- [ ] 01 Router.mp4
-- [ ] 02 Link.mp4
-- [ ] 03 useParams.mp4
-- [ ] 04 Nested Routes.mp4
-- [ ] 05 Head.mp4
-- [ ] 06 Desafio Router 1.mp4
+- [x] 01 Router.mp4
+- [x] 02 Link.mp4
+- [x] 03 useParams.mp4
+- [x] 04 Nested Routes.mp4
+- [x] 05 Head.mp4
+- [x] 06 Desafio Router 1.mp4
 - [ ] 07 Desafio Router 2.mp4
 - [ ] 08 Desafio Router 3.mp4
 
@@ -86,12 +86,12 @@
 
 # 08 Projeto Final
 
-- [ ] 01 Dogs.mp4
-- [ ] 02 Configuracao.mp4
-- [ ] 03 API 1.mp4
-- [ ] 04 API 2.mp4
-- [ ] 05 Estrutura Inicial.mp4
-- [ ] 06 Header.mp4
+- [x] 01 Dogs.mp4
+- [x] 02 Configuracao.mp4
+- [x] 03 API 1.mp4
+- [x] 04 API 2.mp4
+- [x] 05 Estrutura Inicial.mp4
+- [x] 06 Header.mp4
 - [ ] 07 Login Routes.mp4
 - [ ] 08 Form Component.mp4
 - [ ] 09 useForm.mp4
