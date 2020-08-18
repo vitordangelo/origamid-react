@@ -92,9 +92,9 @@
 - [x] 04 API 2.mp4
 - [x] 05 Estrutura Inicial.mp4
 - [x] 06 Header.mp4
-- [ ] 07 Login Routes.mp4
-- [ ] 08 Form Component.mp4
-- [ ] 09 useForm.mp4
+- [x] 07 Login Routes.mp4
+- [x] 08 Form Component.mp4
+- [x] 09 useForm.mp4
 - [ ] 10 API Fetch.mp4
 - [ ] 11 userContext.mp4
 - [ ] 12 Validate Token.mp4
