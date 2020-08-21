@@ -95,10 +95,10 @@
 - [x] 07 Login Routes.mp4
 - [x] 08 Form Component.mp4
 - [x] 09 useForm.mp4
-- [ ] 10 API Fetch.mp4
-- [ ] 11 userContext.mp4
-- [ ] 12 Validate Token.mp4
-- [ ] 13 Login Form.mp4
+- [x] 10 API Fetch.mp4
+- [x] 11 userContext.mp4
+- [x] 12 Validate Token.mp4  
+- [x] 13 Login Form.mp4
 - [ ] 14 Login Background.mp4
 - [ ] 15 Login Criar.mp4
 - [ ] 16 useFetch.mp4
