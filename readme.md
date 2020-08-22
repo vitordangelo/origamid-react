@@ -73,8 +73,8 @@
 - [x] 04 Nested Routes.mp4
 - [x] 05 Head.mp4
 - [x] 06 Desafio Router 1.mp4
-- [ ] 07 Desafio Router 2.mp4
-- [ ] 08 Desafio Router 3.mp4
+- [x] 07 Desafio Router 2.mp4
+- [x] 08 Desafio Router 3.mp4
 
 # 07 Mais React
 
@@ -99,10 +99,10 @@
 - [x] 11 userContext.mp4
 - [x] 12 Validate Token.mp4  
 - [x] 13 Login Form.mp4
-- [ ] 14 Login Background.mp4
-- [ ] 15 Login Criar.mp4
-- [ ] 16 useFetch.mp4
-- [ ] 17 Protected Route.mp4
+- [x] 14 Login Background.mp4
+- [x] 15 Login Criar.mp4
+- [x] 16 useFetch.mp4
+- [x] 17 Protected Route.mp4
 - [ ] 18 User Header.mp4
 - [ ] 19 Mobile Menu.mp4
 - [ ] 20 Foto Post.mp4
