@@ -1,130 +1,130 @@
 # 01 React Completo
 
-- [x] 01 React Completo.mp4
-- [x] 02 Ferramentas.mp4
-- [x] 03 JavaScript 1.mp4
-- [x] 03 JavaScript 2.mp4
-- [x] 03 JavaScript 3.mp4
+- [x] 01 React Completo
+- [x] 02 Ferramentas
+- [x] 03 JavaScript 1
+- [x] 03 JavaScript 2
+- [x] 03 JavaScript 3
 
 # 02 React Para Iniciantes
 
-- [x] 01 Adicionar React.mp4
-- [x] 02 React Basico.mp4
-- [x] 03 React e JavaScript.mp4
-- [x] 04 Webpack e Babel.mp4
-- [x] 05 npx react-react-app.mp4
-- [x] 06 Ambiente Curso.mp4
-- [x] 07 JSX 1.mp4
-- [x] 08 JSX 2.mp4
-- [x] 09 JSX Arrays 1.mp4
-- [x] 10 JSX Arrays 2.mp4
-- [x] 11 Eventos.mp4
-- [x] 12 Componentes.mp4
-- [x] 13 Propriedades.mp4
-- [x] 14 Desafio Componentes.mp4
+- [x] 01 Adicionar React
+- [x] 02 React Basico
+- [x] 03 React e JavaScript
+- [x] 04 Webpack e Babel
+- [x] 05 npx react-react-app
+- [x] 06 Ambiente Curso
+- [x] 07 JSX 1
+- [x] 08 JSX 2
+- [x] 09 JSX Arrays 1
+- [x] 10 JSX Arrays 2
+- [x] 11 Eventos
+- [x] 12 Componentes
+- [x] 13 Propriedades
+- [x] 14 Desafio Componentes
 
 # 03 React Hooks
 
-- [x] 01 useState 1.mp4
-- [x] 02 useState 2.mp4
-- [x] 03 useState 3.mp4
-- [x] 04 useEffect 1.mp4
-- [x] 05 useEffect 2.mp4
-- [x] 06 useRef.mp4
-- [x] 07 useMemo e useCallback.mp4
-- [x] 08 useContext 1.mp4
-- [x] 09 useContext 2.mp4
-- [x] 10 Custom Hooks 1.mp4
-- [x] 11 Custom Hooks 2.mp4
-- [x] 12 Regras.mp4
+- [x] 01 useState 1
+- [x] 02 useState 2
+- [x] 03 useState 3
+- [x] 04 useEffect 1
+- [x] 05 useEffect 2
+- [x] 06 useRef
+- [x] 07 useMemo e useCallback
+- [x] 08 useContext 1
+- [x] 09 useContext 2
+- [x] 10 Custom Hooks 1
+- [x] 11 Custom Hooks 2
+- [x] 12 Regras
 
 # 04 Formulários
 
-- [x] 01 Input 1.mp4
-- [x] 02 Input 2.mp4
-- [x] 03 Textarea.mp4
-- [x] 04 Select.mp4
-- [x] 05 Radio.mp4
-- [x] 06 Checkbox 1.mp4
-- [x] 07 Checkbox 2.mp4
-- [x] 08 Componentes Input.mp4
-- [x] 09 Componentes Select.mp4
-- [x] 10 Componentes Radio.mp4
-- [x] 11 Componentes Checkbox.mp4
-- [x] 12 Validacao.mp4
-- [x] 13 useForm.mp4
-- [x] 14 Desafio Formularios.mp4
+- [x] 01 Input 1
+- [x] 02 Input 2
+- [x] 03 Textarea
+- [x] 04 Select
+- [x] 05 Radio
+- [x] 06 Checkbox 1
+- [x] 07 Checkbox 2
+- [x] 08 Componentes Input
+- [x] 09 Componentes Select
+- [x] 10 Componentes Radio
+- [x] 11 Componentes Checkbox
+- [x] 12 Validacao
+- [x] 13 useForm
+- [x] 14 Desafio Formularios
 
 # 05 CSS
 
-- [x] 01 CSS Import.mp4
-- [x] 02 CSS Modules.mp4
-- [x] 03 Styled Components.mp4
-- [x] 04 CSS Frameworks.mp4
-- [x] 05 Animacoes 1.mp4
-- [ ] 06 Animacoes 2.mp4
-- [x] 07 Imagens.mp4
+- [x] 01 CSS Import
+- [x] 02 CSS Modules
+- [x] 03 Styled Components
+- [x] 04 CSS Frameworks
+- [x] 05 Animacoes 1
+- [ ] 06 Animacoes 2
+- [x] 07 Imagens
 
 # 06 React Router
 
-- [x] 01 Router.mp4
-- [x] 02 Link.mp4
-- [x] 03 useParams.mp4
-- [x] 04 Nested Routes.mp4
-- [x] 05 Head.mp4
-- [x] 06 Desafio Router 1.mp4
-- [x] 07 Desafio Router 2.mp4
-- [x] 08 Desafio Router 3.mp4
+- [x] 01 Router
+- [x] 02 Link
+- [x] 03 useParams
+- [x] 04 Nested Routes
+- [x] 05 Head
+- [x] 06 Desafio Router 1
+- [x] 07 Desafio Router 2
+- [x] 08 Desafio Router 3
 
 # 07 Mais React
 
-- [ ] 01 PropTypes.mp4
-- [ ] 02 Lazy e Suspense.mp4
-- [ ] 03 Memo.mp4
-- [ ] 04 useReducer.mp4
-- [ ] 05 Classes.mp4
+- [ ] 01 PropTypes
+- [ ] 02 Lazy e Suspense
+- [ ] 03 Memo
+- [ ] 04 useReducer
+- [ ] 05 Classes
 
 # 08 Projeto Final
 
-- [x] 01 Dogs.mp4
-- [x] 02 Configuracao.mp4
-- [x] 03 API 1.mp4
-- [x] 04 API 2.mp4
-- [x] 05 Estrutura Inicial.mp4
-- [x] 06 Header.mp4
-- [x] 07 Login Routes.mp4
-- [x] 08 Form Component.mp4
-- [x] 09 useForm.mp4
-- [x] 10 API Fetch.mp4
-- [x] 11 userContext.mp4
-- [x] 12 Validate Token.mp4  
-- [x] 13 Login Form.mp4
-- [x] 14 Login Background.mp4
-- [x] 15 Login Criar.mp4
-- [x] 16 useFetch.mp4
-- [x] 17 Protected Route.mp4
-- [ ] 18 User Header.mp4
-- [ ] 19 Mobile Menu.mp4
-- [ ] 20 Foto Post.mp4
-- [ ] 21 Feed.mp4
-- [ ] 22 Feed Modal 1.mp4
-- [ ] 23 Feed Modal 2.mp4
-- [ ] 24 Comentario Post.mp4
-- [ ] 25 Comentario Estilo.mp4
-- [ ] 26 Foto Delete.mp4
-- [ ] 27 Image Skeleton.mp4
-- [ ] 28 Loading.mp4
-- [ ] 29 Scroll Infinito.mp4
-- [ ] 30 Foto Pagina.mp4
-- [ ] 31 Perfil Usuario.mp4
-- [ ] 32 Erro 404.mp4
-- [ ] 33 PropTypes.mp4
-- [ ] 34 Perdeu Senha 1.mp4
-- [ ] 35 Perdeu Senha 2.mp4
-- [ ] 36 Head.mp4
-- [ ] 37 Footer.mp4
-- [ ] 38 Biblioteca Externa 1.mp4
-- [ ] 39 Biblioteca Externa 2.mp4
-- [ ] 40 Lazy e Suspense.mp4
-- [ ] 41 Ajustes Finais.mp4
-- [ ] 42 Build e Hospedagem.mp4
+- [x] 01 Dogs
+- [x] 02 Configuracao
+- [x] 03 API 1
+- [x] 04 API 2
+- [x] 05 Estrutura Inicial
+- [x] 06 Header
+- [x] 07 Login Routes
+- [x] 08 Form Component
+- [x] 09 useForm
+- [x] 10 API Fetch
+- [x] 11 userContext
+- [x] 12 Validate Token  
+- [x] 13 Login Form
+- [x] 14 Login Background
+- [x] 15 Login Criar
+- [x] 16 useFetch
+- [x] 17 Protected Route
+- [x] 18 User Header
+- [ ] 19 Mobile Menu
+- [ ] 20 Foto Post
+- [ ] 21 Feed
+- [ ] 22 Feed Modal 1
+- [ ] 23 Feed Modal 2
+- [ ] 24 Comentario Post
+- [ ] 25 Comentario Estilo
+- [ ] 26 Foto Delete
+- [ ] 27 Image Skeleton
+- [ ] 28 Loading
+- [ ] 29 Scroll Infinito
+- [ ] 30 Foto Pagina
+- [ ] 31 Perfil Usuario
+- [ ] 32 Erro 404
+- [ ] 33 PropTypes
+- [ ] 34 Perdeu Senha 1
+- [ ] 35 Perdeu Senha 2
+- [ ] 36 Head
+- [ ] 37 Footer
+- [ ] 38 Biblioteca Externa 1
+- [ ] 39 Biblioteca Externa 2
+- [ ] 40 Lazy e Suspense
+- [ ] 41 Ajustes Finais
+- [ ] 42 Build e Hospedagem
