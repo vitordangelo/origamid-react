@@ -104,8 +104,8 @@
 - [x] 16 useFetch
 - [x] 17 Protected Route
 - [x] 18 User Header
-- [ ] 19 Mobile Menu
-- [ ] 20 Foto Post
+- [x] 19 Mobile Menu
+- [x] 20 Foto Post
 - [ ] 21 Feed
 - [ ] 22 Feed Modal 1
 - [ ] 23 Feed Modal 2
