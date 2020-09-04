@@ -106,7 +106,7 @@
 - [x] 18 User Header
 - [x] 19 Mobile Menu
 - [x] 20 Foto Post
-- [ ] 21 Feed
+- [x] 21 Feed
 - [ ] 22 Feed Modal 1
 - [ ] 23 Feed Modal 2
 - [ ] 24 Comentario Post
