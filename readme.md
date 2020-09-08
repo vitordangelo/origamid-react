@@ -108,7 +108,7 @@
 - [x] 20 Foto Post
 - [x] 21 Feed
 - [x] 22 Feed Modal 1
-- [ ] 23 Feed Modal 2
+- [x] 23 Feed Modal 2
 - [ ] 24 Comentario Post
 - [ ] 25 Comentario Estilo
 - [ ] 26 Foto Delete
