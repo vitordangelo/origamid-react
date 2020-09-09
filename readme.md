@@ -109,8 +109,8 @@
 - [x] 21 Feed
 - [x] 22 Feed Modal 1
 - [x] 23 Feed Modal 2
-- [ ] 24 Comentario Post
-- [ ] 25 Comentario Estilo
+- [x] 24 Comentario Post
+- [ ] 25 Comentario Estilo 2:20
 - [ ] 26 Foto Delete
 - [ ] 27 Image Skeleton
 - [ ] 28 Loading
