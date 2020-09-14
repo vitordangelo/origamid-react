@@ -112,8 +112,8 @@
 - [x] 24 Comentario Post
 - [x] 25 Comentario Estilo
 - [x] 26 Foto Delete
-- [ ] 27 Image Skeleton
-- [ ] 28 Loading
+- [x] 27 Image Skeleton
+- [x] 28 Loading
 - [ ] 29 Scroll Infinito
 - [ ] 30 Foto Pagina
 - [ ] 31 Perfil Usuario
