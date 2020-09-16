@@ -115,7 +115,7 @@
 - [x] 27 Image Skeleton
 - [x] 28 Loading
 - [x] 29 Scroll Infinito
-- [ ] 30 Foto Pagina
+- [x] 30 Foto Pagina
 - [ ] 31 Perfil Usuario
 - [ ] 32 Erro 404
 - [ ] 33 PropTypes
