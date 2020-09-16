@@ -9,16 +9,21 @@ import Loading from "../../UI/Loading/Loading";
 import { PHOTOS_GET } from "../../../api/api";
 import styles from "./FeedPhotos.module.css";
 
-const FeedPhotos = ({ setModalPhoto }) => {
+const FeedPhotos = ({ page, user, setModalPhoto, setInfinite }) => {
   const { data, loading, error, request } = useFetch();
 
   useEffect(() => {
+    const total = 6;
     const fetchPhotos = async () => {
-      const { url, options } = PHOTOS_GET({ page: 1, total: 6, user: 0 });
+      const { url, options } = PHOTOS_GET({ page, total, user });
       const { response, json } = await request(url, options);
+
+      if (response && response.ok && json.length < total) {
+        setInfinite(false);
+      }
     };
     fetchPhotos();
-  }, [request]);
+  }, [request, user, page, setInfinite]);
 
   if (error) return <Error error={error} />;
   if (loading) return <Loading />;

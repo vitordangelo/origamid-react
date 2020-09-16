@@ -114,7 +114,7 @@
 - [x] 26 Foto Delete
 - [x] 27 Image Skeleton
 - [x] 28 Loading
-- [ ] 29 Scroll Infinito
+- [x] 29 Scroll Infinito
 - [ ] 30 Foto Pagina
 - [ ] 31 Perfil Usuario
 - [ ] 32 Erro 404
