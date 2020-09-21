@@ -116,10 +116,10 @@
 - [x] 28 Loading
 - [x] 29 Scroll Infinito
 - [x] 30 Foto Pagina
-- [ ] 31 Perfil Usuario
-- [ ] 32 Erro 404
-- [ ] 33 PropTypes
-- [ ] 34 Perdeu Senha 1
+- [x] 31 Perfil Usuario
+- [x] 32 Erro 404
+- [x] 33 PropTypes \* 2:38
+- [x] 34 Perdeu Senha 1
 - [ ] 35 Perdeu Senha 2
 - [ ] 36 Head
 - [ ] 37 Footer

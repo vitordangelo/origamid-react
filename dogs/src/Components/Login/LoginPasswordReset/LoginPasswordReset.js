@@ -1,11 +1,19 @@
-import React from 'react'
+import React, { useState, useEffect } from "react";
 
 const LoginPasswordReset = () => {
-  return (
-    <div>
-      LoginPasswordReset
-    </div>
-  )
-}
+  const [login, setLogin] = useState("");
+  const [key, setKey] = useState("");
 
-export default LoginPasswordReset
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const key = params.get("key");
+    const login = params.get("login");
+
+    if (key) setKey(key);
+    if (login) setLogin(login);
+  }, []);
+
+  return <div>LoginPasswordReset</div>;
+};
+
+export default LoginPasswordReset;
