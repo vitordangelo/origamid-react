@@ -10,6 +10,7 @@ import Error from "../../UI/Error/Error";
 
 import styles from "./UsePhotoPost.module.css";
 import { PHOTO_POST } from "../../../api/api";
+import Head from "../../../Helper/Head/Head";
 
 const UserPhotoPost = () => {
   const nome = useForm();
@@ -46,6 +47,11 @@ const UserPhotoPost = () => {
 
   return (
     <section className={`${styles.photoPost} animeLeft`}>
+      <Head
+        title="Poste sua foto"
+        description="Área depostar foto do site dogs"
+      />
+
       <form onSubmit={handleSubmit}>
         <Input label="Nome" type="text" name="nome" {...nome} />
         <Input label="Peso" type="number" name="peso" {...peso} />

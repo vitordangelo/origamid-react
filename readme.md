@@ -118,11 +118,11 @@
 - [x] 30 Foto Pagina
 - [x] 31 Perfil Usuario
 - [x] 32 Erro 404
-- [x] 33 PropTypes \* 2:38
+- [x] 33 PropTypes
 - [x] 34 Perdeu Senha 1
-- [ ] 35 Perdeu Senha 2
-- [ ] 36 Head
-- [ ] 37 Footer
+- [x] 35 Perdeu Senha 2
+- [x] 36 Head
+- [x] 37 Footer
 - [ ] 38 Biblioteca Externa 1
 - [ ] 39 Biblioteca Externa 2
 - [ ] 40 Lazy e Suspense
