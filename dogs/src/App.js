@@ -28,8 +28,8 @@ function App() {
               <Route path="perfil/:user" element={<UserProfile />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
-            <Footer />
           </main>
+          <Footer />
         </UserStorage>
       </BrowserRouter>
     </div>

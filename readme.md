@@ -123,8 +123,8 @@
 - [x] 35 Perdeu Senha 2
 - [x] 36 Head
 - [x] 37 Footer
-- [ ] 38 Biblioteca Externa 1
-- [ ] 39 Biblioteca Externa 2
-- [ ] 40 Lazy e Suspense
+- [x] 38 Biblioteca Externa 1
+- [x] 39 Biblioteca Externa 2
+- [x] 40 Lazy e Suspense
 - [ ] 41 Ajustes Finais
 - [ ] 42 Build e Hospedagem
